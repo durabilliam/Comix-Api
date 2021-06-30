@@ -1,0 +1,19 @@
+{
+  "comicbooks":[
+    {"id": 0,
+      "title": "Adventures Of Superman",
+      "issue": "535",
+      "Price": "$3.00"
+    },
+    {"id": 1,
+      "title": "Superman",
+      "issue": "1001",
+      "Price": "$5.00"
+    },
+    {"id": 2,
+      "title": "Spawn",
+      "issue": "1",
+      "Price": "$20.00"
+    }
+  ]
+}
