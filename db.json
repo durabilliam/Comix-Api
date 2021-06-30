@@ -3,17 +3,30 @@
     {"id": 0,
       "title": "Adventures Of Superman",
       "issue": "535",
-      "Price": "$3.00"
+      "edition": "Newsstand",
+      "Price": "$3.00",
+      "Available": true
     },
     {"id": 1,
       "title": "Superman",
       "issue": "1001",
-      "Price": "$5.00"
+      "edition": "Newsstand",
+      "Price": "$5.00",
+      "Available": true
     },
     {"id": 2,
       "title": "Spawn",
       "issue": "1",
-      "Price": "$20.00"
+      "edition": "Newsstand",
+      "Price": "$60.00",
+      "Available": true
+    }
+    {"id": 3,
+      "title": "The Amazing Spider-Man",
+      "issue": "700",
+      "edition": "Newsstand",
+      "Price": "$50.00",
+      "Available": true
     }
   ]
 }
