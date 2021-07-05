@@ -40,5 +40,15 @@
       "Grade": "NM",
       "image": "https://scontent.fyaw1-1.fna.fbcdn.net/v/t1.6435-9/139982313_10157407664391331_1829057894832056824_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbeb18&_nc_ohc=s_sQhlzEStsAX-9YCLJ&tn=X7pfmD1pf2nWmS0z&_nc_ht=scontent.fyaw1-1.fna&oh=5faa5242de72ec58b9b8f25afdbb06e8&oe=60E25CE0"
     }
+    {"id": 4,
+      "title": "G.I. JOE (image)",
+      "issue": "1",
+      "edition": "Direct",
+      "Price": "$10.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "image": "https://photos.app.goo.gl/AQ8pc8ytUPn148S79"
+    }
   ]
 }
