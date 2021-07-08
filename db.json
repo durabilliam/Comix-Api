@@ -8,6 +8,7 @@
       "Available": true,
       "quantity": 1,
       "Grade": "CGC 9.4",
+      "Publisher": "DC",
       "image": "https://lh3.googleusercontent.com/ynuHNcJozh7bJCZp5flZqCoKNOuC5ImXd3Eg7gmS-EPTRxTmDMMdBW7j6AaW3u_0br6xIA8SBXz83m0ZqKa22SVfXqPQrW0zBYFaTUf4iO0cA2Wsp90HIFrLa3u_rHPSMSw6lRr6UQ=w2400"
     },
     {"id": 1,
@@ -18,6 +19,7 @@
       "Available": true,
       "quantity": 1,
       "Grade": "FN/VF",
+      "Publisher": "Marvel",
       "image": "https://lh3.googleusercontent.com/gSMiT0_dqXbI7GynDvLsOPGTjUt_LmdGh7AKqlb8hG_fjN1ItTc_B1X6iniOpc6_0-INRC2bZZOpSos36MsWxSE1cNnROP_rYXlspPGrqyfctZCDWripZK4XK2Rpf34KpSAVUqm-sQ=w2400"
     },
     {"id": 2,
@@ -28,6 +30,7 @@
       "Available": true,
       "quantity": 1,
       "Grade": "VF",
+      "Publisher": "Marvel",
       "image": "https://lh3.googleusercontent.com/i2VK7iTHgM7XF51YhmaSlIjH4mCwBa32R6r-k_LYeklSvzAM0s3MqkqYFWoY-h8tom2jlnfZGobluoAqd3Gf0-fnrsYTRQBt5Uo5D2a5g6Sx5WFG-hfcGuTkDjJHEDKTJP5osflBGQ=w2400"
     },
     {"id": 3,
@@ -38,16 +41,18 @@
       "Available": true,
       "quantity": 1,
       "Grade": "FN",
+      "Publisher": "DC",
       "image": "https://lh3.googleusercontent.com/-WBxzQ2OGKKlpg8uTpANUbROcAyd4Lr91zmHqnmtl5RgWr8O7SPPZSOzAEidyPwQnpc34wzNCRU_BhMS3L2xO_-5APKuBktTuY8ZVCFUGKGng5TF5YmnFUO1JN23EAVT4dcJq0563g=w2400"
     },
     {"id": 4,
-      "title": "G.I. JOE (image)",
+      "title": "G.I. JOE",
       "issue": "1",
       "edition": "Direct",
       "Price": "$10.00",
       "Available": true,
       "quantity": 1,
       "Grade": "NM",
+      "Publisher": "Image",
       "image": "https://lh3.googleusercontent.com/pkzCmMklQbJtRAVI0E6YnFqBmoPi1T7wIilJddIPjYvoiLcWj3XJ95eObzOavpT7YZV5xIz-qai0sFvhoeTEc3uBgJ0QSF_qiyHTQUQLiwkDowdjgMjCCL2pcAWc0jHIdKV9Xbkfyg=w2400"
     }
   ]
