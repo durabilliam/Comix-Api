@@ -54,6 +54,39 @@
       "Grade": "NM",
       "Publisher": "Image",
       "image": "https://lh3.googleusercontent.com/pkzCmMklQbJtRAVI0E6YnFqBmoPi1T7wIilJddIPjYvoiLcWj3XJ95eObzOavpT7YZV5xIz-qai0sFvhoeTEc3uBgJ0QSF_qiyHTQUQLiwkDowdjgMjCCL2pcAWc0jHIdKV9Xbkfyg=w2400"
+    },
+    {"id": 5,
+      "title": "Futurama Comics",
+      "issue": "1",
+      "edition": "Newsstand",
+      "Price": "$50.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "Bongo",
+      "image": "https://lh3.googleusercontent.com/wA6TGjUKgi1JlgD9ro8vhLixdHoQCd_WhCCi1_hJQQ4ZfuoE2dg0tb3YpdZOUrY-XXsmMSRXXTQyQIF5_-RhItIfYncuWjHqeUY4S9GIlBvoBHgSZLNQ8YKSkalf0dKasN6VN-C9QA=w2400"
+    },
+    {"id": 6,
+      "title": "Batman & the Outsiders",
+      "issue": "1",
+      "edition": "Canadian Newsstand",
+      "Price": "$60.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "FN/VF",
+      "Publisher": "DC",
+      "image": "https://lh3.googleusercontent.com/RCBRIPUaG9iUtSbDqSk2FrFAkg-1p8Pc2vJUsj2nhv1iGG3WRXNbzXjPUrUcbCr7f6T7cMSkaVvyjS4Bw3sZj2eY9CjcqNohmomMvxWGJTiYVd7flEPuMccZjlpZGC1blhAt2NlU2Q=w2400"
+    },
+    {"id": 7,
+      "title": "Battle Chasers",
+      "issue": "3",
+      "edition": "Direct",
+      "Price": "$15.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "Image",
+      "image": "https://lh3.googleusercontent.com/C3jcHX-MuGJWKwK1DUD5-3SoWf4Ro2F9uTRFtzuA21pjcZhpHBz1KE-C4NgYfLWhz7UT5o00fOqIfk2EfSDfX9lZbjWTxK_l5b8nxX1hdVEnc_KgDt4jKSVtbR4YaZ6IMr87Fq9Q8g=w2400"
     }
   ]
 }
