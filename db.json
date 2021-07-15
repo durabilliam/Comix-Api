@@ -87,6 +87,17 @@
       "Grade": "NM",
       "Publisher": "Image",
       "image": "https://lh3.googleusercontent.com/C3jcHX-MuGJWKwK1DUD5-3SoWf4Ro2F9uTRFtzuA21pjcZhpHBz1KE-C4NgYfLWhz7UT5o00fOqIfk2EfSDfX9lZbjWTxK_l5b8nxX1hdVEnc_KgDt4jKSVtbR4YaZ6IMr87Fq9Q8g=w2400"
+    },
+    {"id": 8,
+      "title": "DareDevil Reborn",
+      "issue": "1",
+      "edition": "Direct",
+      "Price": "$5.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "Marvel",
+      "image": "https://lh3.googleusercontent.com/AmBsx5lyVVvcjgEvE0RenE3u4BFONKmgDTgKP7wvRUvoxz34stDbd16YqXosfEdsDQdL0BZlbcfZxeioWJywQqxs8dueiy7VUc4v8nlXVavzwbbpUYKe3-WyiQIA9G_hr_o_icZJxw=w2400"
     }
   ]
 }
