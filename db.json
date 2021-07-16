@@ -99,5 +99,38 @@
       "Publisher": "Marvel",
       "image": "https://lh3.googleusercontent.com/AmBsx5lyVVvcjgEvE0RenE3u4BFONKmgDTgKP7wvRUvoxz34stDbd16YqXosfEdsDQdL0BZlbcfZxeioWJywQqxs8dueiy7VUc4v8nlXVavzwbbpUYKe3-WyiQIA9G_hr_o_icZJxw=w2400"
     }
+    {"id": 9,
+      "title": "Mr. Miracle Special",
+      "issue": "1",
+      "edition": "Direct",
+      "Price": "$10.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "DC",
+      "image": "https://lh3.googleusercontent.com/y2GSmGRtqR1QQI8-2YosSTAagn0c-7fj6tMp4ZKl1AbNt3L_3fInE0xr6ToHjqPh02gSFGQGpXofN4TdgjZj36oUdzFEoLeRudkLeZIAT7KtO_9vUWB58CZFSKp17fz7svzW5pKyew=w2400"
+    }
+    {"id": 10,
+      "title": "Fear Itself: The Fearless",
+      "issue": "12",
+      "edition": "Direct",
+      "Price": "$5.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "Marvel",
+      "image": "https://lh3.googleusercontent.com/qMEv_NDbo0TABuYpl_BG4J4ZB19LJCgtsX0ruH5btA8IW3HuMTf9jDtyz43PdNLZ-xd-ctl1mVaZZs3Wuanx3mRPQOrW3FC3qQeYIwzXX6AGCAx5fSVurzMDbtb-ReeyfQ0rxRjWWw=w2400"
+    }
+    {"id": 11,
+      "title": "Fathom: Killian's Tide",
+      "issue": "4",
+      "edition": "Direct",
+      "Price": "$10.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "NM",
+      "Publisher": "Image",
+      "image": "https://lh3.googleusercontent.com/gkpqHbz0jsIZiu8dgHhJqP1Fy7QSc9nSAQp8DaSF9PgkFtG3BH9OvZrUI4OpTrgNOdwz4vqQuT7ODn3dju7aHRH1gIfYFZ9eemeq7F0LOWEgOu77KJzVFg8ufd8_YOW0AN7mePSwnQ=w2400"
+    }
   ]
 }
