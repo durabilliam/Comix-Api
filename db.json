@@ -131,6 +131,28 @@
       "Grade": "NM",
       "Publisher": "Image",
       "image": "https://lh3.googleusercontent.com/gkpqHbz0jsIZiu8dgHhJqP1Fy7QSc9nSAQp8DaSF9PgkFtG3BH9OvZrUI4OpTrgNOdwz4vqQuT7ODn3dju7aHRH1gIfYFZ9eemeq7F0LOWEgOu77KJzVFg8ufd8_YOW0AN7mePSwnQ=w2400"
+    },
+    {"id": 12,
+      "title": "Tales of the Teen Titans",
+      "issue": "42",
+      "edition": "Canadian Newsstand",
+      "Price": "$40.00",
+      "Available": true,
+      "quantity": 1,
+      "Grade": "FN",
+      "Publisher": "DC",
+      "image": "https://lh3.googleusercontent.com/kdevjZGHxPd6NiKeB62f-i0qaJfS1T5BTFSBxGULX3eDLpMVYe4fYu-qwt7PfUEs_nLfLoBsccMXOS5nkfd1sbV_9yPRiYKLIuWNtGURbh_gDThCNrk8MzgPhXKpYZ8-nLi_3EPn5Q=w2400"
+    },    
+    {"id": 13,
+      "title": "Tales of the Teen Titans",
+      "issue": "43",
+      "edition": "Canadian Newsstand",
+      "Price": "$40.00",
+      "Available": true,
+      "quantity": 5,
+      "Grade": "FN",
+      "Publisher": "DC",
+      "image": "https://lh3.googleusercontent.com/BVoemvPeVp4qd-bk55MrQSz3rK2ydFhctImjOluKI7OjrO7D6QP4gdton07SiZVjgHQOP16qeSSAABdkA0sRAILXPVAs1FjXIAaHqNtd9kgPOrva9ghb8TAP74QVybblzhIxftfmwQ=w2400"
     }
   ]
 }
